@@ -26,7 +26,7 @@
 ### 参考：
 
 * [UNIX Timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
-* [PublishKey](PublishKey.md)
-* [Static静态推流](Static静态推流.md)
-* [Expiry限时推流](Expiry限时推流.md)
-* [None无鉴权推流](None无鉴权推流.md)
+* [PublishKey](publishkey.md)
+* [Static静态推流](publishsecurity-static.md)
+* [Expiry限时推流](publishsecurity-expiry.md)
+* [None无鉴权推流](publishsecurity-none.md)

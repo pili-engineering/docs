@@ -6,4 +6,4 @@
 ### 参考：
 
 * [[PublishSDK](docs-link)] | [[OBS](docs-link)]
-* [推流地址](推流地址)
+* [推流地址](publishurl.md)

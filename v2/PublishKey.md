@@ -5,5 +5,5 @@
 
 ### 参考：
 
-* [鉴权方式](PublishSecurity鉴权方式)
-* static静态推流
+* [鉴权方式](publishsecurity.md)
+* [static静态推流](publishsecurity-static.md)
