@@ -7,7 +7,7 @@
 
 ### 参考：
 
-* [Static静态推流](Static静态推流.md)
-* [Expiry限时推流](Dynamic限时推流.md)
-* [Dynamic动态推流](Dynamic动态推流.md)
-* [None无鉴权推流](None无鉴权推流.md)
+* [Static静态推流](publishsecurity-static.md)
+* [Expiry限时推流](publishsecurity-expiry.md)
+* [Dynamic动态推流](publishsecurity-dynamic.md)
+* [None无鉴权推流](publishsecurity-none.md)

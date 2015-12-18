@@ -4,4 +4,4 @@
 * 一个Segment对应多个ts切片。
 
 ### 参考
-* [StreamStatus](StreamStatus流状态)
+* [StreamStatus](streamstatus.md)

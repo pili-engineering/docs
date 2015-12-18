@@ -11,7 +11,7 @@
 4. 进行推流。
 
 ### 参考
-* [Expiry限时推流](Expiry限时推流)
-* [Dynamic动态推流](Dynamic动态推流)
-* [None无鉴权推流](None无鉴权推流)
+* [Expiry限时推流](publishsecurity-expiry.md)
+* [Dynamic动态推流](publishsecurity-dynamic.md)
+* [None无鉴权推流](publishsecurity-none.md)
 

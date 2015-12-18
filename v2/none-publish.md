@@ -8,6 +8,6 @@
 
 ### 参考：
 
-* [Static静态推流](Static静态推流.md)
-* [Expiry限时推流](Dynamic限时推流.md)
-* [Dynamix动态推流](Dynamix动态推流.md)
+* [Static静态推流](publishsecurity-static.md)
+* [Expiry限时推流](publishsecurity-expiry.md)
+* [Dynamix动态推流](publishsecurity-dynamix.md)

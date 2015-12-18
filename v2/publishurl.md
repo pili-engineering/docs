@@ -8,5 +8,5 @@
 2. 通过构造推流地址，并且在推流地址中指定流名称streamKey，则自动创建流。并且流的鉴权方式继承应用属性。
 
 *** 参考方式
-* [PublishSecurity 鉴权方式](PublishSecurity鉴权方式.md)
+* [PublishSecurity 鉴权方式](publishsecurity.md)
 
